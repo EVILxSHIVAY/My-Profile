@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on:<br>Improving coding skill<br><br>👯 I’m looking to collaborate on:<br>Backend Development<br><br>🌱 I’m currently learning:<br>DSA and Django<br><br>💬 Ask me about:<br>JavaScript,Python,C++,C, and any general software development questions.<br><br>⚡ Fun fact:<br>Watch Thriller movie it help alone.<br><br>🌐 Socials:
+🔭 I’m currently working on: Improving coding skill<br><br>👯 I’m looking to collaborate on: Backend Development<br><br>🌱 I’m currently learning: DSA and Django<br><br>💬 Ask me about:< JavaScript,Python,C++,C, and any general software development questions.<br><br>⚡ Fun fact: Watch Thriller movie it help alone.<br><br>🌐 Socials:
 
 
 ## 🌐 Socials:
@@ -15,7 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=hackers470&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Top Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo

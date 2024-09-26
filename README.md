@@ -2,10 +2,10 @@
 <h3>A prissonate developer in India.</h3> 
 
 <style>
-h3{
+h3 {
     text-align:center;
    }
-h1{
+h1 {
    text-align:center;
    }
 </style>

@@ -1,15 +1,6 @@
 <h1>Hi 👋, I'm Shivam Agarwal</h1>
 <h3>A prissonate developer in India.</h3> 
 
-<style>
-h3 {
-    text-align:center;
-   }
-h1 {
-   text-align:center;
-   }
-</style>
-
 ## 💫 About Me:
 🔭 I’m currently working on: Improving coding skill<br><br>👯 I’m looking to collaborate on: Backend Development<br><br>🌱 I’m currently learning: DSA and Django<br><br>💬 Ask me about: JavaScript,Python,C++,C, and any general software development questions.<br><br>⚡ Fun fact: Watch Thriller movie it help alone.<br><br>
 

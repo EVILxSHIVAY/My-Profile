@@ -1,7 +1,7 @@
 <h1>
 <center>Hi 👋, I'm Shivam Agarwal<center>
 </h1>
-<br><br>
+
 <center>A prissonate developer in India.</center>
 
   

@@ -2,8 +2,7 @@
 <center>Hi 👋, I'm Shivam Agarwal<center>
 </h1>
 
-<center>A prissonate developer in India.</center>
-
+<h1>A prissonate developer in India.</h1>
   
 ## 💫 About Me:
 🔭 I’m currently working on: Improving coding skill<br><br>👯 I’m looking to collaborate on: Backend Development<br><br>🌱 I’m currently learning: DSA and Django<br><br>💬 Ask me about: JavaScript,Python,C++,C, and any general software development questions.<br><br>⚡ Fun fact: Watch Thriller movie it help alone.<br><br>
